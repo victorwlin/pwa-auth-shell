@@ -1,0 +1,1 @@
+This is a shell of a PWA with fully functioning Firebase Authentication.
